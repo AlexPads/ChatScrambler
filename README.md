@@ -2,7 +2,9 @@
 Unscramble messages to win money! (Pocketmine)<br>
 (This is a plugin rewrite & update.)
 # Disclaimer
-I do not own this plugin.
+I do not own this plugin & do not claim to be.
+<br>
+there was no indication of license(s)
 <br>
 the original author could not be found.
 <br>
