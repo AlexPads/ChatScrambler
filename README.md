@@ -1,5 +1,6 @@
 # ChatScrambler
-Unscramble messages to win money! (Pocketmine)
+Unscramble messages to win money! (Pocketmine)<br>
+(This is a plugin rewrite & update.)
 # Disclaimer
 I do not own this plugin.
 <br>
